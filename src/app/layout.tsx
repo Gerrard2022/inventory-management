@@ -6,7 +6,7 @@ import DashboardWrapper from "./DashboardWrapper";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Istock",
+  title: "iStock",
   description: "Management management",
 };
 
