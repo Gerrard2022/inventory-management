@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "s3-inventorymanagement.s3.us-east-2.amazonaws.com",
+        hostname: "inventory-backend-ad3hj7b2v-gerrard2022s-projects.vercel.app",
         port: "",
         pathname: "/**",
       },
